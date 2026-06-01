@@ -24,7 +24,7 @@ Este script lê a data diretamente do nome do arquivo e:
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/WhatsApp-Timestamp-Fixer.git
+git clone https://github.com/longstenc/WhatsApp-Timestamp-Fixer.git
 cd WhatsApp-Timestamp-Fixer
 python -m pip install -r requirements.txt
 ```
@@ -100,8 +100,8 @@ Processando... █████████████████████�
 .
 ├── whatsapp-timestamp-fixer.py                # Versão com emojis (Unicode)
 ├── whatsapp-timestamp-fixer_noemoji           # Versão ASCII (terminais Windows clássicos)
-├── requirements.txt                     # Dependências do projeto
-└── README.md                            # Este arquivo
+├── requirements.txt                           # Dependências do projeto
+└── README.md                                  # Este arquivo
 ```
 
 ## 🐍 Versão do Python
