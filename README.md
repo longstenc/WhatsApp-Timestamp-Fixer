@@ -35,7 +35,7 @@ python -m pip install -r requirements.txt
 python whatsapp-timestamp-fixer.py
 ```
 
-Ou, se preferir a versão sem emojis (terminal com suporte a Unicode):
+Ou, se preferir a versão sem emojis:
 
 ```bash
 python whatsapp-timestamp-fixer_noemoji.py
